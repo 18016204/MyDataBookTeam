@@ -15,7 +15,7 @@
         android:textSize="24sp"
         android:gravity="center"
         android:textStyle="bold"
-        android:text="Created By: Ah Chong,Peter,Mary" />
+        android:text="Created By: Caven,Yang Yi,Ashraf" />
 
     <LinearLayout
         android:layout_width="match_parent"
